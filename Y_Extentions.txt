@@ -1,2 +1,1 @@
 type:v,version:2
-type:m,menuitem:File Manager,desc:File Manager,file:Y_Ext_Filemgr.yhtm,tag:filemgr,version:1.0.0,size:61,url:http://git.coolstreamtech.de/?p=cst-public-gui-yweb.git;a=blob_plain;hb=refs/heads/master;f=packages/yI_ext_filemgr_1-0-0.tar,yweb_version:2.7.0,info_url:
